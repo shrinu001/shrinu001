@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @shrinu001 i am currently a freshman in my undergrad
+- 👋 Hi, I’m Shrinidhi
 - 👀 I’m interested in App devlopment and machine learning
 - 🌱 I’m currently learning coding using python
 - 💞️ I’m looking to collaborate on AI and ML projects and also building apps
